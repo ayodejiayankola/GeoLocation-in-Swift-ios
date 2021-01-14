@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "2668d139cf29dd462e6803a058fbafcd"
+build_time: [1610012971, 755751000]
+inputs:
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Clima-iOS12/Clima/WeatherDataModel.swift": [1608730080, 630994172]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Clima-iOS12/Clima/WeatherViewController.swift": [1610012801, 148085068]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Clima-iOS12/Clima/AppDelegate.swift": [1608730080, 614572721]
+  "/Users/ayodejiayankola/Desktop/Udemy Study Project/Clima-iOS12/Clima/ChangeCityViewController.swift": [1608730080, 614725439]
