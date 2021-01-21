@@ -1,5 +1,5 @@
 version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
 options: "ce79156d409c048adee89022eadb308a"
-build_time: [1609852026, 523194000]
+build_time: [1611222214, 271813000]
 inputs:
   "/Users/ayodejiayankola/Desktop/Udemy Study Project/Clima-iOS12/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift": [1609843767, 49886524]
