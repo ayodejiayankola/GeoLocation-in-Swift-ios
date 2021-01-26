@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>85B0BAAA-1009-4D8C-B277-54FB2B462CBC</key>
+		<key>20F01D9A-2A08-4B26-B281-034B809941A5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>85B0BAAA-1009-4D8C-B277-54FB2B462CBC.xcactivitylog</string>
+			<string>20F01D9A-2A08-4B26-B281-034B809941A5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,115 @@
 			<key>signature</key>
 			<string>Run Clima</string>
 			<key>timeStartedRecording</key>
-			<real>632931939.22013295</real>
+			<real>633352729.77044702</real>
 			<key>timeStoppedRecording</key>
-			<real>632932050.387272</real>
+			<real>633353007.68516004</real>
 			<key>title</key>
 			<string>Run Clima</string>
 			<key>uniqueIdentifier</key>
-			<string>85B0BAAA-1009-4D8C-B277-54FB2B462CBC</string>
+			<string>20F01D9A-2A08-4B26-B281-034B809941A5</string>
+		</dict>
+		<key>7C49BBC5-119F-414A-BC0B-EE2623834960</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7C49BBC5-119F-414A-BC0B-EE2623834960.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Clima project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Clima</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Clima</string>
+			<key>timeStartedRecording</key>
+			<real>633264249.81191003</real>
+			<key>timeStoppedRecording</key>
+			<real>633264256.59111094</real>
+			<key>title</key>
+			<string>Run Clima</string>
+			<key>uniqueIdentifier</key>
+			<string>7C49BBC5-119F-414A-BC0B-EE2623834960</string>
+		</dict>
+		<key>7F2991B8-E260-4DF5-B4C7-966249CD8F60</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7F2991B8-E260-4DF5-B4C7-966249CD8F60.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Clima project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Clima</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Clima</string>
+			<key>timeStartedRecording</key>
+			<real>633351639.16155899</real>
+			<key>timeStoppedRecording</key>
+			<real>633352727.08096099</real>
+			<key>title</key>
+			<string>Run Clima</string>
+			<key>uniqueIdentifier</key>
+			<string>7F2991B8-E260-4DF5-B4C7-966249CD8F60</string>
+		</dict>
+		<key>A949DD9F-1F68-4227-9718-2F813855BD8C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A949DD9F-1F68-4227-9718-2F813855BD8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Clima project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Clima</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Clima</string>
+			<key>timeStartedRecording</key>
+			<real>633350239.55031896</real>
+			<key>timeStoppedRecording</key>
+			<real>633351635.18207598</real>
+			<key>title</key>
+			<string>Run Clima</string>
+			<key>uniqueIdentifier</key>
+			<string>A949DD9F-1F68-4227-9718-2F813855BD8C</string>
 		</dict>
 	</dict>
 </dict>

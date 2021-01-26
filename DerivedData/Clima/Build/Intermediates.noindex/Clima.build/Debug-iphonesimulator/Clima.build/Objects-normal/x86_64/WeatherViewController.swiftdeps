@@ -14,6 +14,7 @@ provides-dynamic-lookup:
 - "temperatureLabel"
 - "updateUiWithWeatherData"
 - "updateWeatherData"
+- "userEnteredANewCityName"
 - "viewDidLoad"
 - "weatherDataModel"
 - "weatherIcon"
@@ -40,6 +41,7 @@ depends-top-level:
 - !private "WEATHER_URL"
 - "WeatherDataModel"
 - "WeatherViewController"
+- "changeCityDelegate"
 - !private "cityLabel"
 - !private "getWeatherData"
 - !private "kCLLocationAccuracyHundredMeters"
@@ -100,6 +102,7 @@ depends-member:
 - ["So25CLLocationManagerDelegateP", "temperatureLabel"]
 - ["So25CLLocationManagerDelegateP", "updateUiWithWeatherData"]
 - ["So25CLLocationManagerDelegateP", "updateWeatherData"]
+- ["So25CLLocationManagerDelegateP", "userEnteredANewCityName"]
 - ["So25CLLocationManagerDelegateP", "viewDidLoad"]
 - ["So25CLLocationManagerDelegateP", "weatherDataModel"]
 - ["So25CLLocationManagerDelegateP", "weatherIcon"]
@@ -137,6 +140,7 @@ depends-member:
 - !private ["s7CVarArgP", "text"]
 - !private ["s7CVarArgP", "updateUiWithWeatherData"]
 - !private ["s7CVarArgP", "updateWeatherData"]
+- ["s7CVarArgP", "userEnteredANewCityName"]
 - !private ["s7CVarArgP", "viewDidLoad"]
 - !private ["s7CVarArgP", "weatherDataModel"]
 - !private ["s7CVarArgP", "weatherIcon"]
@@ -210,6 +214,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "text"]
 - !private ["s28CustomDebugStringConvertibleP", "updateUiWithWeatherData"]
 - !private ["s28CustomDebugStringConvertibleP", "updateWeatherData"]
+- ["s28CustomDebugStringConvertibleP", "userEnteredANewCityName"]
 - !private ["s28CustomDebugStringConvertibleP", "value"]
 - !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
 - !private ["s28CustomDebugStringConvertibleP", "weatherDataModel"]
@@ -262,6 +267,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "text"]
 - !private ["s23CustomStringConvertibleP", "updateUiWithWeatherData"]
 - !private ["s23CustomStringConvertibleP", "updateWeatherData"]
+- ["s23CustomStringConvertibleP", "userEnteredANewCityName"]
 - !private ["s23CustomStringConvertibleP", "value"]
 - !private ["s23CustomStringConvertibleP", "viewDidLoad"]
 - !private ["s23CustomStringConvertibleP", "weatherDataModel"]
@@ -330,6 +336,7 @@ depends-member:
 - !private ["SQ", "text"]
 - !private ["SQ", "updateUiWithWeatherData"]
 - !private ["SQ", "updateWeatherData"]
+- ["SQ", "userEnteredANewCityName"]
 - !private ["SQ", "viewDidLoad"]
 - !private ["SQ", "weatherDataModel"]
 - !private ["SQ", "weatherIcon"]
@@ -423,6 +430,7 @@ depends-member:
 - !private ["SH", "text"]
 - !private ["SH", "updateUiWithWeatherData"]
 - !private ["SH", "updateWeatherData"]
+- ["SH", "userEnteredANewCityName"]
 - !private ["SH", "viewDidLoad"]
 - !private ["SH", "weatherDataModel"]
 - !private ["SH", "weatherIcon"]
@@ -480,6 +488,7 @@ depends-member:
 - !private ["So8NSCodingP", "text"]
 - ["So8NSCodingP", "updateUiWithWeatherData"]
 - ["So8NSCodingP", "updateWeatherData"]
+- ["So8NSCodingP", "userEnteredANewCityName"]
 - ["So8NSCodingP", "viewDidLoad"]
 - ["So8NSCodingP", "weatherDataModel"]
 - ["So8NSCodingP", "weatherIcon"]
@@ -513,6 +522,7 @@ depends-member:
 - ["So26NSExtensionRequestHandlingP", "temperatureLabel"]
 - ["So26NSExtensionRequestHandlingP", "updateUiWithWeatherData"]
 - ["So26NSExtensionRequestHandlingP", "updateWeatherData"]
+- ["So26NSExtensionRequestHandlingP", "userEnteredANewCityName"]
 - ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
 - ["So26NSExtensionRequestHandlingP", "weatherDataModel"]
 - ["So26NSExtensionRequestHandlingP", "weatherIcon"]
@@ -562,6 +572,7 @@ depends-member:
 - !private ["So8NSObjectC", "text"]
 - ["So8NSObjectC", "updateUiWithWeatherData"]
 - ["So8NSObjectC", "updateWeatherData"]
+- ["So8NSObjectC", "userEnteredANewCityName"]
 - ["So8NSObjectC", "viewDidLoad"]
 - ["So8NSObjectC", "weatherDataModel"]
 - ["So8NSObjectC", "weatherIcon"]
@@ -610,6 +621,7 @@ depends-member:
 - !private ["So8NSObjectP", "text"]
 - ["So8NSObjectP", "updateUiWithWeatherData"]
 - ["So8NSObjectP", "updateWeatherData"]
+- ["So8NSObjectP", "userEnteredANewCityName"]
 - ["So8NSObjectP", "viewDidLoad"]
 - ["So8NSObjectP", "weatherDataModel"]
 - ["So8NSObjectP", "weatherIcon"]
@@ -712,6 +724,7 @@ depends-member:
 - !private ["So21UIAppearanceContainerP", "text"]
 - ["So21UIAppearanceContainerP", "updateUiWithWeatherData"]
 - ["So21UIAppearanceContainerP", "updateWeatherData"]
+- ["So21UIAppearanceContainerP", "userEnteredANewCityName"]
 - ["So21UIAppearanceContainerP", "viewDidLoad"]
 - ["So21UIAppearanceContainerP", "weatherDataModel"]
 - ["So21UIAppearanceContainerP", "weatherIcon"]
@@ -743,6 +756,7 @@ depends-member:
 - ["So18UIContentContainerP", "temperatureLabel"]
 - ["So18UIContentContainerP", "updateUiWithWeatherData"]
 - ["So18UIContentContainerP", "updateWeatherData"]
+- ["So18UIContentContainerP", "userEnteredANewCityName"]
 - ["So18UIContentContainerP", "viewDidLoad"]
 - ["So18UIContentContainerP", "weatherDataModel"]
 - ["So18UIContentContainerP", "weatherIcon"]
@@ -783,6 +797,7 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "text"]
 - ["So18UIFocusEnvironmentP", "updateUiWithWeatherData"]
 - ["So18UIFocusEnvironmentP", "updateWeatherData"]
+- ["So18UIFocusEnvironmentP", "userEnteredANewCityName"]
 - ["So18UIFocusEnvironmentP", "viewDidLoad"]
 - ["So18UIFocusEnvironmentP", "weatherDataModel"]
 - ["So18UIFocusEnvironmentP", "weatherIcon"]
@@ -829,6 +844,7 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "text"]
 - ["So30UIPasteConfigurationSupportingP", "updateUiWithWeatherData"]
 - ["So30UIPasteConfigurationSupportingP", "updateWeatherData"]
+- ["So30UIPasteConfigurationSupportingP", "userEnteredANewCityName"]
 - ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
 - ["So30UIPasteConfigurationSupportingP", "weatherDataModel"]
 - ["So30UIPasteConfigurationSupportingP", "weatherIcon"]
@@ -861,6 +877,7 @@ depends-member:
 - !private ["So11UIResponderC", "text"]
 - ["So11UIResponderC", "updateUiWithWeatherData"]
 - ["So11UIResponderC", "updateWeatherData"]
+- ["So11UIResponderC", "userEnteredANewCityName"]
 - ["So11UIResponderC", "viewDidLoad"]
 - ["So11UIResponderC", "weatherDataModel"]
 - ["So11UIResponderC", "weatherIcon"]
@@ -894,6 +911,7 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "text"]
 - ["So30UIResponderStandardEditActionsP", "updateUiWithWeatherData"]
 - ["So30UIResponderStandardEditActionsP", "updateWeatherData"]
+- ["So30UIResponderStandardEditActionsP", "userEnteredANewCityName"]
 - ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
 - ["So30UIResponderStandardEditActionsP", "weatherDataModel"]
 - ["So30UIResponderStandardEditActionsP", "weatherIcon"]
@@ -925,6 +943,7 @@ depends-member:
 - ["So16UIStateRestoringP", "temperatureLabel"]
 - ["So16UIStateRestoringP", "updateUiWithWeatherData"]
 - ["So16UIStateRestoringP", "updateWeatherData"]
+- ["So16UIStateRestoringP", "userEnteredANewCityName"]
 - ["So16UIStateRestoringP", "viewDidLoad"]
 - ["So16UIStateRestoringP", "weatherDataModel"]
 - ["So16UIStateRestoringP", "weatherIcon"]
@@ -958,6 +977,7 @@ depends-member:
 - !private ["So18UITraitEnvironmentP", "text"]
 - ["So18UITraitEnvironmentP", "updateUiWithWeatherData"]
 - ["So18UITraitEnvironmentP", "updateWeatherData"]
+- ["So18UITraitEnvironmentP", "userEnteredANewCityName"]
 - ["So18UITraitEnvironmentP", "viewDidLoad"]
 - ["So18UITraitEnvironmentP", "weatherDataModel"]
 - ["So18UITraitEnvironmentP", "weatherIcon"]
@@ -991,6 +1011,7 @@ depends-member:
 - !private ["So23UIUserActivityRestoringP", "text"]
 - ["So23UIUserActivityRestoringP", "updateUiWithWeatherData"]
 - ["So23UIUserActivityRestoringP", "updateWeatherData"]
+- ["So23UIUserActivityRestoringP", "userEnteredANewCityName"]
 - ["So23UIUserActivityRestoringP", "viewDidLoad"]
 - ["So23UIUserActivityRestoringP", "weatherDataModel"]
 - ["So23UIUserActivityRestoringP", "weatherIcon"]
@@ -1024,6 +1045,7 @@ depends-member:
 - ["So16UIViewControllerC", "temperatureLabel"]
 - ["So16UIViewControllerC", "updateUiWithWeatherData"]
 - ["So16UIViewControllerC", "updateWeatherData"]
+- ["So16UIViewControllerC", "userEnteredANewCityName"]
 - ["So16UIViewControllerC", "viewDidLoad"]
 - ["So16UIViewControllerC", "weatherDataModel"]
 - ["So16UIViewControllerC", "weatherIcon"]
@@ -1062,6 +1084,7 @@ depends-member:
 - ["5Clima21WeatherViewControllerC", "temperatureLabel"]
 - ["5Clima21WeatherViewControllerC", "updateUiWithWeatherData"]
 - ["5Clima21WeatherViewControllerC", "updateWeatherData"]
+- ["5Clima21WeatherViewControllerC", "userEnteredANewCityName"]
 - ["5Clima21WeatherViewControllerC", "viewDidLoad"]
 - ["5Clima21WeatherViewControllerC", "weatherDataModel"]
 - ["5Clima21WeatherViewControllerC", "weatherIcon"]
@@ -1116,6 +1139,7 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "updateUiWithWeatherData"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "updateWeatherData"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userEnteredANewCityName"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "weatherDataModel"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "weatherIcon"]
@@ -1151,6 +1175,7 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "updateUiWithWeatherData"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "updateWeatherData"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "userEnteredANewCityName"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "weatherDataModel"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "weatherIcon"]
@@ -1163,6 +1188,32 @@ depends-member:
 - !private ["s21_ObjectiveCBridgeableP", "text"]
 - !private ["s38__DefaultCustomPlaygroundQuickLookableP", "image"]
 - !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["5Clima18changeCityDelegateP", "APP_ID"]
+- !private ["5Clima18changeCityDelegateP", "Alamofire"]
+- ["5Clima18changeCityDelegateP", "CLLocationManager"]
+- !private ["5Clima18changeCityDelegateP", "Int"]
+- !private ["5Clima18changeCityDelegateP", "JSON"]
+- !private ["5Clima18changeCityDelegateP", "String"]
+- !private ["5Clima18changeCityDelegateP", "UIImage"]
+- !private ["5Clima18changeCityDelegateP", "WEATHER_URL"]
+- ["5Clima18changeCityDelegateP", "WeatherDataModel"]
+- ["5Clima18changeCityDelegateP", ""]
+- !private ["5Clima18changeCityDelegateP", "cityLabel"]
+- !private ["5Clima18changeCityDelegateP", "getWeatherData"]
+- !private ["5Clima18changeCityDelegateP", "kCLLocationAccuracyHundredMeters"]
+- ["5Clima18changeCityDelegateP", "locationManager"]
+- ["5Clima18changeCityDelegateP", "locationManagerDidChangeAuthorization"]
+- ["5Clima18changeCityDelegateP", "locationManagerDidPauseLocationUpdates"]
+- ["5Clima18changeCityDelegateP", "locationManagerDidResumeLocationUpdates"]
+- ["5Clima18changeCityDelegateP", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["5Clima18changeCityDelegateP", "print"]
+- !private ["5Clima18changeCityDelegateP", "temperatureLabel"]
+- !private ["5Clima18changeCityDelegateP", "updateUiWithWeatherData"]
+- !private ["5Clima18changeCityDelegateP", "updateWeatherData"]
+- ["5Clima18changeCityDelegateP", "userEnteredANewCityName"]
+- !private ["5Clima18changeCityDelegateP", "viewDidLoad"]
+- !private ["5Clima18changeCityDelegateP", "weatherDataModel"]
+- !private ["5Clima18changeCityDelegateP", "weatherIcon"]
 depends-nominal:
 - !private "s18AdditiveArithmeticP"
 - !private "Sa"
@@ -1277,6 +1328,7 @@ depends-nominal:
 - "10Foundation37_KeyValueCodingAndObservingPublishingP"
 - !private "s21_ObjectiveCBridgeableP"
 - !private "s38__DefaultCustomPlaygroundQuickLookableP"
+- "5Clima18changeCityDelegateP"
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
@@ -1317,4 +1369,4 @@ depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
-interface-hash: "00092c3feb19df7f5c0e77b116d7cf7f"
+interface-hash: "3f41d0b3866c08cda0b6471b6a23cb45"

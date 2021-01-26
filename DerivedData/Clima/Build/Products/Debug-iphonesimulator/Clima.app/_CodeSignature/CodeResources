@@ -14,7 +14,7 @@
 		</data>
 		<key>Frameworks/Alamofire.framework/Alamofire</key>
 		<data>
-		Wk5aigsxhomU1TeLPjSFsdU35ts=
+		gQmhs4y6kAMdBtNp19WrhtyNCVY=
 		</data>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD</key>
 		<data>
-		r/1maiye/0lbhD1fcyx+Yoyb6ic=
+		DIr4MPpHWR2NSRDJ51+pVmvYDbY=
 		</data>
 		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/SwiftyJSON</key>
 		<data>
-		JUWAmTIh1+v33zKOesjv1wAMHDc=
+		FKuK15GPFZ1+b+1rPHpOUEgkFJc=
 		</data>
 		<key>Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -154,27 +154,27 @@
 		</data>
 		<key>LaunchScreen.nib</key>
 		<data>
-		jaMkHXMH9XiG8Lyyax2QoTVmy8k=
+		TjFJY/nVUm9d+2NfNeUmOoDlwfY=
 		</data>
 		<key>Main.storyboardc/Info.plist</key>
 		<data>
-		TNSjD6Qn9aCz4Ly2G7JcUdvr7yI=
+		XPs5/zTVP9Sk4dWlvVUJlQaQLVw=
 		</data>
 		<key>Main.storyboardc/P1Y-dL-zMM-view-R49-jx-b8b.nib</key>
 		<data>
-		2pMX2wosQKI0ePSKQ9MoWko55gk=
+		lvwZvGSrwkxhbfZRk+5GmyWoBsg=
 		</data>
 		<key>Main.storyboardc/UIViewController-P1Y-dL-zMM.nib</key>
 		<data>
-		ZOzmnt1h3OjtRwCj5ZSQ0vC36EA=
+		OCbuxoTLQreScwRsIdt8cFOOgDM=
 		</data>
 		<key>Main.storyboardc/UIViewController-vXZ-lx-hvc.nib</key>
 		<data>
-		xHxHcfIlf+JVNreEr27/AXkL69g=
+		cR9KbX+nK/+u3GURmbBV3AEHIYo=
 		</data>
 		<key>Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</key>
 		<data>
-		wxFfkwj69HGKEtXZsD4TwwLYzVQ=
+		qOojRb1PohDnFnTPc/HXra2W0cg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -205,7 +205,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZCLrZfLPs556VklNNLuP3ourCCvDInsIIEzOQj0jbUs=
+			scYiKzrSo8LdKuDDtMOohqJeGzH1qLL3Edz/g0OC0po=
 			</data>
 		</dict>
 		<key>Frameworks/Alamofire.framework/Info.plist</key>
@@ -233,7 +233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yeHpjnX9xbfXrLatb/2a5OFjx8WziqeZHm0lKhYPSHo=
+			vEwdapXwRjSAHBUh2oS0as5y0TDOL5JNsDskiNh4t5A=
 			</data>
 		</dict>
 		<key>Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png</key>
@@ -338,7 +338,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J4/Li2NxnNlfHhmSMETS92n4xZPNXeSh99lENp0vUPc=
+			yNnQOGJFHFptHkXhYnpnoJhF78xj/5YY5ry5wpI4yQ0=
 			</data>
 		</dict>
 		<key>Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources</key>
@@ -443,42 +443,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x5HUkt6Qzo1DZ9+6VQF7lWQXy0cw4tOeY78oRR5aBtU=
+			DJgQGNxXzLbulNvUCUlK3T9/YTQ8V1N78QUk1Vvh4JY=
 			</data>
 		</dict>
 		<key>Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u23XxUF4aFL71rgZklf4opjYjL8zXllDPxT1pTHUP60=
+			KTALgRZznqXPF+LhDg2Y1gk/Kd8nj1FG8KahidwMA0I=
 			</data>
 		</dict>
 		<key>Main.storyboardc/P1Y-dL-zMM-view-R49-jx-b8b.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			V26yFJfA068NafNzWAiDz2LUAkJjYetfvTTBqV9Ye/Q=
+			fBs5XeBHJeWJO4UOFGRrNJ63i94UqQPSIxVZ4YwNqAY=
 			</data>
 		</dict>
 		<key>Main.storyboardc/UIViewController-P1Y-dL-zMM.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JdbnJTKZnhYebasFj9mc2boZj/WrNzCxWMPG3cKrCVo=
+			VaTyFK7XbjlyPPL4qHNSzureWLmnxvryqgF/AZKkpA4=
 			</data>
 		</dict>
 		<key>Main.storyboardc/UIViewController-vXZ-lx-hvc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0c6hLVvMmoSBd6OHjavmdn0hSbh6FvWvVFPb/Ge2z+o=
+			52qwaAar4fPsRgGwrqx6rL2U1PQ4CTPpkk1y7D2OIBY=
 			</data>
 		</dict>
 		<key>Main.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jeUV4k1EguG1/6gYTvruFPEzPVEdcSuHd5xBCA1PGT4=
+			ri73nV/2NFVb0rq6s6I/iIEXBoxJLcBPHtW64D8nsr0=
 			</data>
 		</dict>
 		<key>README.md</key>
