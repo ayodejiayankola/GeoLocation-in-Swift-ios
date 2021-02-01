@@ -239,6 +239,7 @@ SWIFT_CLASS("_TtC5Clima24ChangeCityViewController")
 @class UILabel;
 @class CLLocationManager;
 @class CLLocation;
+@class UIStoryboardSegue;
 
 SWIFT_CLASS("_TtC5Clima21WeatherViewController")
 @interface WeatherViewController : UIViewController <CLLocationManagerDelegate>
@@ -248,6 +249,7 @@ SWIFT_CLASS("_TtC5Clima21WeatherViewController")
 - (void)viewDidLoad;
 - (void)locationManager:(CLLocationManager * _Nonnull)manager didUpdateLocations:(NSArray<CLLocation *> * _Nonnull)locations;
 - (void)locationManager:(CLLocationManager * _Nonnull)manager didFailWithError:(NSError * _Nonnull)error;
+- (void)prepareForSegue:(UIStoryboardSegue * _Nonnull)segue sender:(id _Nullable)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

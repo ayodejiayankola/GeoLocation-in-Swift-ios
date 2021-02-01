@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>20F01D9A-2A08-4B26-B281-034B809941A5</key>
+		<key>8B154C61-F3B0-4220-B74C-6E0EA72311BD</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>20F01D9A-2A08-4B26-B281-034B809941A5.xcactivitylog</string>
+			<string>8B154C61-F3B0-4220-B74C-6E0EA72311BD.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run Clima</string>
 			<key>timeStartedRecording</key>
-			<real>633352729.77044702</real>
+			<real>633866612.52621603</real>
 			<key>timeStoppedRecording</key>
-			<real>633353007.68516004</real>
+			<real>633866721.13950896</real>
 			<key>title</key>
 			<string>Run Clima</string>
 			<key>uniqueIdentifier</key>
-			<string>20F01D9A-2A08-4B26-B281-034B809941A5</string>
+			<string>8B154C61-F3B0-4220-B74C-6E0EA72311BD</string>
 		</dict>
-		<key>7C49BBC5-119F-414A-BC0B-EE2623834960</key>
+		<key>94EE45AD-070F-48BC-A013-5B1D2BEC7E71</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7C49BBC5-119F-414A-BC0B-EE2623834960.xcactivitylog</string>
+			<string>94EE45AD-070F-48BC-A013-5B1D2BEC7E71.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Run Clima</string>
 			<key>timeStartedRecording</key>
-			<real>633264249.81191003</real>
+			<real>633538428.41530597</real>
 			<key>timeStoppedRecording</key>
-			<real>633264256.59111094</real>
+			<real>633538449.57654798</real>
 			<key>title</key>
 			<string>Run Clima</string>
 			<key>uniqueIdentifier</key>
-			<string>7C49BBC5-119F-414A-BC0B-EE2623834960</string>
+			<string>94EE45AD-070F-48BC-A013-5B1D2BEC7E71</string>
 		</dict>
-		<key>7F2991B8-E260-4DF5-B4C7-966249CD8F60</key>
+		<key>FD2732A9-C214-4A2F-AA13-A2D3BEE8BEA5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>7F2991B8-E260-4DF5-B4C7-966249CD8F60.xcactivitylog</string>
+			<string>FD2732A9-C214-4A2F-AA13-A2D3BEE8BEA5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,47 +100,13 @@
 			<key>signature</key>
 			<string>Run Clima</string>
 			<key>timeStartedRecording</key>
-			<real>633351639.16155899</real>
+			<real>633866969.90979695</real>
 			<key>timeStoppedRecording</key>
-			<real>633352727.08096099</real>
+			<real>633867206.57128406</real>
 			<key>title</key>
 			<string>Run Clima</string>
 			<key>uniqueIdentifier</key>
-			<string>7F2991B8-E260-4DF5-B4C7-966249CD8F60</string>
-		</dict>
-		<key>A949DD9F-1F68-4227-9718-2F813855BD8C</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>A949DD9F-1F68-4227-9718-2F813855BD8C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Clima project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Clima</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run Clima</string>
-			<key>timeStartedRecording</key>
-			<real>633350239.55031896</real>
-			<key>timeStoppedRecording</key>
-			<real>633351635.18207598</real>
-			<key>title</key>
-			<string>Run Clima</string>
-			<key>uniqueIdentifier</key>
-			<string>A949DD9F-1F68-4227-9718-2F813855BD8C</string>
+			<string>FD2732A9-C214-4A2F-AA13-A2D3BEE8BEA5</string>
 		</dict>
 	</dict>
 </dict>

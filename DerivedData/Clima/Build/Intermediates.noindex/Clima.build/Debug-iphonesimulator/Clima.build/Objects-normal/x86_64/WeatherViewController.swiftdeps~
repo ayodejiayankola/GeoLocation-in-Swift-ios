@@ -43,6 +43,7 @@ depends-top-level:
 - "UILabel"
 - "UIStoryboardSegue"
 - "UIViewController"
+- !private "UnicodeScalarType"
 - !private "WEATHER_URL"
 - "WeatherDataModel"
 - "WeatherViewController"

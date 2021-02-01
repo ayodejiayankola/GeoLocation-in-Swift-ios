@@ -2,15 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<string>SwiftyJSON</string>
+	<string>Alamofire</string>
 	<string>QuartzCore</string>
-	<string>Foundation</string>
-	<string>Dispatch</string>
 	<string>MobileCoreServices</string>
-	<string>CoreServices</string>
+	<string>CoreLocation</string>
+	<string>SwiftyJSON</string>
+	<string>Dispatch</string>
 	<string>SystemConfiguration</string>
 	<string>UIKit</string>
-	<string>CoreLocation</string>
-	<string>Alamofire</string>
+	<string>CoreServices</string>
+	<string>Foundation</string>
 </array>
 </plist>

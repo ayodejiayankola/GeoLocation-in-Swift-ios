@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4C8468DA-404D-4A3B-8360-D4C8C0723545</key>
+		<key>53F3BDDF-2DF7-43B2-9A68-2A34FD09DBEC</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4C8468DA-404D-4A3B-8360-D4C8C0723545.xcactivitylog</string>
+			<string>53F3BDDF-2DF7-43B2-9A68-2A34FD09DBEC.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build Clima</string>
 			<key>timeStartedRecording</key>
-			<real>633350239.49387503</real>
+			<real>633867206.55815494</real>
 			<key>timeStoppedRecording</key>
-			<real>633350239.54570401</real>
+			<real>633867209.328848</real>
 			<key>title</key>
 			<string>Build Clima</string>
 			<key>uniqueIdentifier</key>
-			<string>4C8468DA-404D-4A3B-8360-D4C8C0723545</string>
+			<string>53F3BDDF-2DF7-43B2-9A68-2A34FD09DBEC</string>
 		</dict>
-		<key>9FEB0B71-4656-4BA4-96B8-24D37CCAFFB1</key>
+		<key>82D85D66-F9D6-464F-836F-C36443FE1B42</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>9FEB0B71-4656-4BA4-96B8-24D37CCAFFB1.xcactivitylog</string>
+			<string>82D85D66-F9D6-464F-836F-C36443FE1B42.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +66,15 @@
 			<key>signature</key>
 			<string>Build Clima</string>
 			<key>timeStartedRecording</key>
-			<real>633350237.65858102</real>
+			<real>633538428.07443905</real>
 			<key>timeStoppedRecording</key>
-			<real>633350237.71075594</real>
+			<real>633538428.40576506</real>
 			<key>title</key>
 			<string>Build Clima</string>
 			<key>uniqueIdentifier</key>
-			<string>9FEB0B71-4656-4BA4-96B8-24D37CCAFFB1</string>
+			<string>82D85D66-F9D6-464F-836F-C36443FE1B42</string>
 		</dict>
-		<key>B0BBF2C4-3B94-432F-BFCD-29F7D35BD366</key>
+		<key>A6E6B973-48BB-487E-887B-E8AD1E6FD737</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>B0BBF2C4-3B94-432F-BFCD-29F7D35BD366.xcactivitylog</string>
+			<string>A6E6B973-48BB-487E-887B-E8AD1E6FD737.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +100,15 @@
 			<key>signature</key>
 			<string>Build Clima</string>
 			<key>timeStartedRecording</key>
-			<real>633352727.05866694</real>
+			<real>633866966.87990201</real>
 			<key>timeStoppedRecording</key>
-			<real>633352729.76694596</real>
+			<real>633866969.905581</real>
 			<key>title</key>
 			<string>Build Clima</string>
 			<key>uniqueIdentifier</key>
-			<string>B0BBF2C4-3B94-432F-BFCD-29F7D35BD366</string>
+			<string>A6E6B973-48BB-487E-887B-E8AD1E6FD737</string>
 		</dict>
-		<key>EB303A34-83B8-415D-9640-9ABA55F793AF</key>
+		<key>D09B7823-65CD-45B4-B331-17D8837346CA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EB303A34-83B8-415D-9640-9ABA55F793AF.xcactivitylog</string>
+			<string>D09B7823-65CD-45B4-B331-17D8837346CA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,81 +134,13 @@
 			<key>signature</key>
 			<string>Build Clima</string>
 			<key>timeStartedRecording</key>
-			<real>633353007.69611502</real>
+			<real>633866612.35860205</real>
 			<key>timeStoppedRecording</key>
-			<real>633353010.57163894</real>
+			<real>633866612.506657</real>
 			<key>title</key>
 			<string>Build Clima</string>
 			<key>uniqueIdentifier</key>
-			<string>EB303A34-83B8-415D-9640-9ABA55F793AF</string>
-		</dict>
-		<key>F4FB217C-C7C9-4570-8181-F099C181B43C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F4FB217C-C7C9-4570-8181-F099C181B43C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Clima project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Clima</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Clima</string>
-			<key>timeStartedRecording</key>
-			<real>633351635.20727003</real>
-			<key>timeStoppedRecording</key>
-			<real>633351639.15825605</real>
-			<key>title</key>
-			<string>Build Clima</string>
-			<key>uniqueIdentifier</key>
-			<string>F4FB217C-C7C9-4570-8181-F099C181B43C</string>
-		</dict>
-		<key>F8C187A4-BA42-4908-80AD-84F647D7537D</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F8C187A4-BA42-4908-80AD-84F647D7537D.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>Clima project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Clima</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build Clima</string>
-			<key>timeStartedRecording</key>
-			<real>633264256.57803297</real>
-			<key>timeStoppedRecording</key>
-			<real>633264258.63858604</real>
-			<key>title</key>
-			<string>Build Clima</string>
-			<key>uniqueIdentifier</key>
-			<string>F8C187A4-BA42-4908-80AD-84F647D7537D</string>
+			<string>D09B7823-65CD-45B4-B331-17D8837346CA</string>
 		</dict>
 	</dict>
 </dict>
