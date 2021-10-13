@@ -1,10 +1,8 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Clima
 
 ## Our Goal
-
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Cocoapods and open source libraries. These will power your apps to do incredible things without having to spend months coding up the functionality. Additionally, we’ll learn how to call Application Programming Interfaces (APIs) to grab data from websites. If you’re dreaming of making that Twitter-powered stock trading app then you’re about to get a lot closer to your goal!
+learning how to call Application Programming Interfaces (APIs) to grab data from websites. 
 
 ## What you will create
 
@@ -58,5 +56,5 @@ end
 
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
+
 
